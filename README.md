@@ -1,4 +1,4 @@
-# eyecharts
+# Eyecharts.org
 EyeCharts
 
 Creative commons license:
@@ -10,7 +10,7 @@ After Installation, Type ABCD keys to get the Hands.
 
 
 # Copyright
-Copyright (c) 2018 EyeCharts
+Copyright (c) 2018 EyeCharts.org
 
 Creative commons license:
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
